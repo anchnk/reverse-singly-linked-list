@@ -3,7 +3,7 @@
 ## About 
 
 This project is a very simple basic implementation of a SinglyLinkedList which 
-has an very concise API:
+has a very concise API:
 
 - `add(node)`: add a new node to the end of the list.
 - `reverse()`: reverse the list in-place.
