@@ -4,7 +4,7 @@
   "description": "",
   "main": "interview.js",
   "scripts": {
-    "test": "mocha -- ./*spec.js"
+    "test": "mocha -- ./src/*spec.js"
   },
   "keywords": [],
   "author": "",
